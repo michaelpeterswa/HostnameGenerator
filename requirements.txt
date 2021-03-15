@@ -1,1 +1,4 @@
 requests
+inquirer
+pyfiglet
+tabulate

@@ -24,7 +24,7 @@ def returnDistance(elem):
 
 if __name__ == "__main__":
     
-    with open("distance_settings.json", "r") as infile:
+    with open("../data/distance_settings.json", "r") as infile:
         settings = json.load(infile)
 
     with open(settings["data"], "r") as data:

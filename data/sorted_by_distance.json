@@ -3,372 +3,372 @@
         "name": "olympic",
         "lat": "47.80392754",
         "lon": "-123.6663848",
-        "distance": 64.8575261504938
+        "distance": 64.85659910207474
     },
     {
         "name": "mountrainier",
         "lat": "46.86075416",
         "lon": "-121.7043885",
-        "distance": 66.90856904743161
+        "distance": 66.92123007168354
     },
     {
         "name": "northcascades",
         "lat": "48.71171756",
         "lon": "-121.2069423",
-        "distance": 82.61524727869703
+        "distance": 82.60406755631965
     },
     {
         "name": "craterlake",
         "lat": "42.94065854",
         "lon": "-122.1338414",
-        "distance": 332.3330881393523
+        "distance": 332.34690459341965
     },
     {
         "name": "glacier",
         "lat": "48.68414678",
         "lon": "-113.8009306",
-        "distance": 395.11214045766707
+        "distance": 395.1091382438632
     },
     {
         "name": "redwood",
         "lat": "41.37237268",
         "lon": "-124.0318129",
-        "distance": 449.0332955319706
+        "distance": 449.04682553377467
     },
     {
         "name": "lassenvolcanic",
         "lat": "40.49354575",
         "lon": "-121.4075993",
-        "distance": 503.1758429788999
+        "distance": 503.1896057752945
     },
     {
         "name": "yellowstone",
         "lat": "44.59824417",
         "lon": "-110.5471695",
-        "distance": 601.0255156410593
+        "distance": 601.0295339168069
     },
     {
         "name": "grandteton",
         "lat": "43.81853565",
         "lon": "-110.7054666",
-        "distance": 619.1584388571608
+        "distance": 619.1635588929902
     },
     {
         "name": "yosemite",
         "lat": "37.84883288",
         "lon": "-119.5571873",
-        "distance": 697.685506415922
+        "distance": 697.6990078109877
     },
     {
         "name": "greatbasin",
         "lat": "38.94617378",
         "lon": "-114.2579782",
-        "distance": 728.5994969443936
+        "distance": 728.6106294992387
     },
     {
         "name": "pinnacles",
         "lat": "36.49029208",
         "lon": "-121.1813607",
-        "distance": 779.9535182992843
+        "distance": 779.9672955191827
     },
     {
         "name": "sequoiaandkingscanyon",
         "lat": "36.71277299",
         "lon": "-118.587429",
-        "distance": 785.3048755988845
+        "distance": 785.3182145395172
     },
     {
         "name": "deathvalley",
         "lat": "36.48753731",
         "lon": "-117.134395",
-        "distance": 821.0230783283861
+        "distance": 821.0360254998225
     },
     {
         "name": "capitolreef",
         "lat": "38.2821653130533",
         "lon": "-111.247048377991",
-        "distance": 857.420864317036
+        "distance": 857.4307526969425
     },
     {
         "name": "zion",
         "lat": "37.29839254",
         "lon": "-113.0265138",
-        "distance": 860.6741149025603
+        "distance": 860.685246974407
     },
     {
         "name": "brycecanyon",
         "lat": "37.58399144",
         "lon": "-112.1826689",
-        "distance": 867.9742440499556
+        "distance": 867.9848820378775
     },
     {
         "name": "theodoreroosevelt",
         "lat": "47.17777274",
         "lon": "-103.4300083",
-        "distance": 878.8945182313528
+        "distance": 878.8934521566719
     },
     {
         "name": "arches",
         "lat": "38.72261844",
         "lon": "-109.5863666",
-        "distance": 890.4879411253055
+        "distance": 890.49678906063
     },
     {
         "name": "canyonlands",
         "lat": "38.24555783",
         "lon": "-109.8801624",
-        "distance": 905.238539010953
+        "distance": 905.2477799935449
     },
     {
         "name": "windcave",
         "lat": "43.58012365",
         "lon": "-103.4394709",
-        "distance": 951.1475626676694
+        "distance": 951.1501179867597
     },
     {
         "name": "channelislands",
         "lat": "33.98680093",
         "lon": "-119.9112735",
-        "distance": 958.7978894202432
+        "distance": 958.8115680785425
     },
     {
         "name": "grandcanyon",
         "lat": "36.0001165336017",
         "lon": "-112.12151636301",
-        "distance": 963.452201254276
+        "distance": 963.4633420622413
     },
     {
         "name": "rockymountain",
         "lat": "40.3556924",
         "lon": "-105.6972879",
-        "distance": 965.7314482260649
+        "distance": 965.7374704000122
     },
     {
         "name": "blackcanyonofthegunnison",
         "lat": "38.57779869",
         "lon": "-107.7242756",
-        "distance": 966.2637298838306
+        "distance": 966.2717841192487
     },
     {
         "name": "glacierbay",
         "lat": "58.80086718",
         "lon": "-136.8407579",
-        "distance": 968.0164678287371
+        "distance": 968.0048210401885
     },
     {
         "name": "badlands",
         "lat": "43.68584846",
         "lon": "-102.482942",
-        "distance": 991.9840467254472
+        "distance": 991.9862344594364
     },
     {
         "name": "mesaverde",
         "lat": "37.23908345",
         "lon": "-108.4624032",
-        "distance": 1008.1916006244743
+        "distance": 1008.2006729142964
     },
     {
         "name": "joshuatree",
         "lat": "33.91418525",
         "lon": "-115.8398125",
-        "distance": 1012.4889416958583
+        "distance": 1012.5017941006082
     },
     {
         "name": "greatsanddunes",
         "lat": "37.79256812",
         "lon": "-105.5919572",
-        "distance": 1086.4454697852718
+        "distance": 1086.4530321109276
     },
     {
         "name": "petrifiedforest",
         "lat": "34.98387664",
         "lon": "-109.7877678",
-        "distance": 1091.167881973974
+        "distance": 1091.178374356617
     },
     {
         "name": "saguaro",
         "lat": "32.20909636",
         "lon": "-110.7574974",
-        "distance": 1231.7011905029847
+        "distance": 1231.7127162750794
     },
     {
         "name": "wrangell-stelias",
         "lat": "61.4182147",
         "lon": "-142.6028439",
-        "distance": 1236.2865423010805
+        "distance": 1236.2749201694041
     },
     {
         "name": "whitesands",
         "lat": "32.77907858",
         "lon": "-106.3333461",
-        "distance": 1327.2606187214367
+        "distance": 1327.2704640938862
     },
     {
         "name": "voyageurs",
         "lat": "48.48370609",
         "lon": "-92.8382913",
-        "distance": 1350.3522329506138
+        "distance": 1350.3490871945567
     },
     {
         "name": "kenaifjords",
         "lat": "59.81804414",
         "lon": "-150.106502",
-        "distance": 1392.399813816015
+        "distance": 1392.389699226235
     },
     {
         "name": "carlsbadcaverns",
         "lat": "32.14089463",
         "lon": "-104.5529688",
-        "distance": 1422.792982920119
+        "distance": 1422.8023870823522
     },
     {
         "name": "guadalupemountains",
         "lat": "31.92304462",
         "lon": "-104.885527",
-        "distance": 1423.8659107321666
+        "distance": 1423.8754922298724
     },
     {
         "name": "lakeclark",
         "lat": "60.57405857",
         "lon": "-153.55535",
-        "distance": 1521.8168989272783
+        "distance": 1521.8067703647123
     },
     {
         "name": "katmai",
         "lat": "58.62235668",
         "lon": "-155.0126574",
-        "distance": 1528.1183783970373
+        "distance": 1528.1092064221184
     },
     {
         "name": "denali",
         "lat": "63.29777484",
         "lon": "-151.0526568",
-        "distance": 1531.7590205644137
+        "distance": 1531.7476982574358
     },
     {
         "name": "isleroyale",
         "lat": "48.01145819",
         "lon": "-88.82780657",
-        "distance": 1537.7214345167351
+        "distance": 1537.7182757237892
     },
     {
         "name": "bigbend",
         "lat": "29.29817767",
         "lon": "-103.2297897",
-        "distance": 1629.275764815042
+        "distance": 1629.2854785219647
     },
     {
         "name": "gatewayarch",
         "lat": "38.6258069",
         "lon": "-90.1892508",
-        "distance": 1719.7389798328586
+        "distance": 1719.7412866327459
     },
     {
         "name": "gatesofthearctic",
         "lat": "67.75961636",
         "lon": "-153.2917758",
-        "distance": 1755.991992511638
+        "distance": 1755.9796829093918
     },
     {
         "name": "hotsprings",
         "lat": "34.52414366",
         "lon": "-93.06332936",
-        "distance": 1757.7901846043708
+        "distance": 1757.7950501463258
     },
     {
         "name": "indianadunes",
         "lat": "41.63765525",
         "lon": "-87.09647445",
-        "distance": 1762.2770979118188
+        "distance": 1762.277272756015
     },
     {
         "name": "kobukvalley",
         "lat": "67.35631336",
         "lon": "-159.2002293",
-        "distance": 1873.6521288370466
+        "distance": 1873.6402211935458
     },
     {
         "name": "mammothcave",
         "lat": "37.19760458",
         "lon": "-86.13090198",
-        "distance": 1959.2276255632137
+        "distance": 1959.2296526123116
     },
     {
         "name": "cuyahogavalley",
         "lat": "41.26093905",
         "lon": "-81.57116722",
-        "distance": 2030.4281524487697
+        "distance": 2030.4275445855558
     },
     {
         "name": "greatsmokymountains",
         "lat": "35.60116374",
         "lon": "-83.50818326",
-        "distance": 2141.875258596601
+        "distance": 2141.8773482084925
     },
     {
         "name": "newrivergorge",
         "lat": "37.86878554",
         "lon": "-80.99956002",
-        "distance": 2171.4880546270715
+        "distance": 2171.48875529497
     },
     {
         "name": "shenandoah",
         "lat": "38.49236644",
         "lon": "-78.46907715",
-        "distance": 2266.659933636823
+        "distance": 2266.659924535835
     },
     {
         "name": "congaree",
         "lat": "33.79187523",
         "lon": "-80.74867805",
-        "distance": 2342.181471391688
+        "distance": 2342.183617392023
     },
     {
         "name": "acadia",
         "lat": "44.409286",
         "lon": "-68.247501",
-        "distance": 2546.6899888114467
+        "distance": 2546.6863049944977
     },
     {
         "name": "rooseveltcampobello",
         "lat": "44.8736",
         "lon": "-66.9621",
-        "distance": 2590.599960805949
+        "distance": 2590.595968251938
     },
     {
         "name": "haleakala",
         "lat": "20.70693015",
         "lon": "-156.1591775",
-        "distance": 2652.4337191989066
+        "distance": 2652.4412199307662
     },
     {
         "name": "drytortugas",
         "lat": "24.628741",
         "lon": "-82.87319",
-        "distance": 2671.8515498981483
+        "distance": 2671.8568528655164
     },
     {
         "name": "hawaiivolcanoes",
         "lat": "19.3355036",
         "lon": "-155.4700257",
-        "distance": 2702.126616086459
+        "distance": 2702.1345437236237
     },
     {
         "name": "everglades",
         "lat": "25.37294225",
         "lon": "-80.88200301",
-        "distance": 2721.02247894356
+        "distance": 2721.0271323966203
     },
     {
         "name": "biscayne",
         "lat": "25.490587",
         "lon": "-80.21023851",
-        "distance": 2744.7000856947166
+        "distance": 2744.7045552701998
     },
     {
         "name": "virginislands",
         "lat": "18.34279656",
         "lon": "-64.74194451",
-        "distance": 3790.70300773318
+        "distance": 3790.7058062696124
     }
 ]

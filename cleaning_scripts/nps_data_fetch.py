@@ -1,7 +1,7 @@
 import json
 import requests
 
-with open("secrets.json", "r") as secrets:
+with open("../data/secrets.json", "r") as secrets:
     keys = json.load(secrets)
 
 parks_url = "https://developer.nps.gov/api/v1/parks"
@@ -31,5 +31,5 @@ for park in parks_json["data"]:
                     "lat": park["latitude"], 
                     "lon": park["longitude"] })
 
-with open("nps_data_fetch.json", "w") as outfile:
+with open("../data/nps_data_fetch.json", "w") as outfile:
     json.dump(natl_parks, outfile, indent=4)
