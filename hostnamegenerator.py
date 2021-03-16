@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 
-import os
 import inquirer
 import logging
-from pyfiglet import Figlet
 import json
+import pickle
+from pyfiglet import Figlet
 from tabulate import tabulate
+from os import system, path
 
-clear = lambda: os.system("clear")
+clear = lambda: system("clear")
 
 def title():
     f = Figlet(font='smslant')
@@ -17,7 +18,7 @@ def intro():
     questions = [
         inquirer.List('result',
                     message="What would you like to do?",
-                    choices=['View', 'Create', 'Edit', 'Delete', 'Quit'],
+                    choices=['View', 'Create', 'Edit', 'Delete', 'Save and Quit'],
                 ),
     ]
     return inquirer.prompt(questions)
@@ -88,6 +89,10 @@ def delete():
         if assoc["hostname"] == new_answer["hostname"]:
             del current_associations[i]
 
+def save_and_quit():
+    with open(datafile, "wb") as outfile:
+        pickle.dump(current_associations, outfile)
+
 def loop_to_main():
     input("Press Enter to Continue...")
     main()
@@ -114,8 +119,8 @@ def main():
         delete()
         loop_to_main()
         
-    elif intro_answers["result"] == "Quit":
-        print("Exiting!\n")
+    elif intro_answers["result"] == "Save and Quit":
+        save_and_quit()
         exit(0)
     
     else:
@@ -124,7 +129,14 @@ def main():
 
 
 if __name__ == "__main__":
-    current_associations = []
+    datafile = "curr_assoc.pickle"
+
+    if path.exists(datafile):
+        with open(datafile, 'rb') as infile:
+            current_associations = pickle.load(infile)
+    else:
+        current_associations = []
+
     logging.basicConfig(level=logging.DEBUG)
     distance_data = load_distance_data()
     main()
